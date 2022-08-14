@@ -1,7 +1,3 @@
-//Jacob Schiemenz
-//Assignment 5 One Time Pads
-//Due Date: 3-8-2021
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
